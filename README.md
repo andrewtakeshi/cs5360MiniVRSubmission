@@ -2,6 +2,9 @@
 ## Notes
 ### General
 This repository was created specifically for submission of the assignment. We worked on the project in another repository, available [here](https://github.com/u0398022/CS5963_Assignment1_1/) (permission may need to be requested to view the repo). 
+
+Each part contains the requested files/folders as well as their respective Mono... folders. This is done to allow for running the project directly in the folder, as otherwise a "Failed to load mono" error is thrown and the executable doesn't start. 
+
 ### Part 1:
 There are no particulars for this portion of the assignment. 
 ### Part 2:
