@@ -5,6 +5,8 @@ This repository was created specifically for submission of the assignment. We wo
 
 Each part contains the requested files/folders as well as their respective Mono... folders. This is done to allow for running the project directly in the folder, as otherwise a "Failed to load mono" error is thrown and the executable doesn't start. 
 
+All parts of the Mini VR Project were tested using the Oculus Rift/Quest. For input, we used the Oculus Touch controllers (unless otherwise specified, i.e. keyboard input). 
+
 ### Part 1:
 There are no particulars for this portion of the assignment. 
 ### Part 2:
